@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style-indexpage.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <title>Coding Quiz</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+        <a class="navbar-brand" href="score_page.html">High Scores</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <span id="navbar-text">
+                <h6>Timer</h6>
+                <p id="safeTimerDisplay">00:60</p>
+            </span>
+        </div>
+    </nav>
+
+    <div class="jumbotron text-center bg-transparent">
+        <div id="startUp">
+            <h1 class="display-4">So you want to be a Developer?</h1>
+            <h2 class="lead">Here is where your career begins!</h2>
+            <h4>Take the Quiz!</h4>
+            <hr class="my-4">
+            <br>
+            <p>As you begin your career path, lets test your current programming knowledge, once completed you will be redirected to a link to see your score against other user scores.</p>
+            <br><br>
+            <a id="StartQuiz" class="btn btn-primary btn-lg" onclick="startTimer();run();">Start Quiz</a>
+        </div>
+        <div id="quiz-container" class="quiz-container">
+            <div id="quiz"></div>
+
+        </div>
+        <div id="results"></div>
+
+
+    </div>
+    <script src="./script_indexstyles.js"></script>
+</body>
+
+</html>

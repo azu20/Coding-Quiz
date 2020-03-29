@@ -1,13 +1,12 @@
 # 04 Web APIs: Code Quiz
 
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This assignment applies Web API's that we discussed this week. We learn about DOM objects and how they are organized, JavaScrip timers and setting global window objects, even bubbling and time storage.   This week's homework assignemnt is to creat a timed code quiz with multiple-choice questions that will run on the browser. 
 
 ## User Story
 
 ```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+Have you ever considered a career as a web developer? If your answer is yes, 
+this is the place for you! Click the submit button 
 ```
 
 ## Acceptance Criteria
@@ -30,13 +29,9 @@ The following animation demonstrates the application functionality:
 
 ![code quiz](./Assets/04-web-apis-homework-demo.gif)
 
-### Review
+### Challenges:  
 
-You are required to submit the following for review:
+This week was the most challenging for me with regards to time management.  Unfortunately I wasn't able to dedicate too much time on my activities and homework, I had to work overtime to get caught up at work, while still adjusting to be confine to my room living, working, and doing school work has proven to be challenging in my ability to get motivated and concentrate on schoolwork. 
 
-* The URL of the functional, deployed application.
+This has been a lesson, I plan to complete my assignment by mid next week and make immediate changes to my daily schedule to help me compartmentalize work and school and home living. :-)
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
