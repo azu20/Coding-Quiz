@@ -35,3 +35,5 @@ This week was the most challenging for me with regards to time management.  Unfo
 
 This has been a lesson, I plan to complete my assignment by mid next week and make immediate changes to my daily schedule to help me compartmentalize work and school and home living. :-)
 
+I have to complete the followign bugs/tasks: accurately show score results, links score to results html page, and add JS code to results html to show high scores.  
+
