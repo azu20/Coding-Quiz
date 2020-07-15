@@ -1,6 +1,12 @@
 # 04 Web APIs: Code Quiz
 
-This assignment applies Web API's that we discussed this week. We learn about DOM objects and how they are organized, JavaScrip timers and setting global window objects, even bubbling and time storage.   This week's homework assignemnt is to creat a timed code quiz with multiple-choice questions that will run on the browser. 
+This app is a timed code quiz with multiple-choice questions. The app runs in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+
+This App applies the following concepts: Web API's, DOM objects and how they are organized, JavaScrip timers and setting global window objects, even bubbling and time storage.  
+
+## Deployed link:
+
+https://azu20.github.io/Coding-Quiz/
 
 ## User Story
 
@@ -29,11 +35,5 @@ The following animation demonstrates the application functionality:
 
 ![code quiz](./Assets/04-web-apis-homework-demo.gif)
 
-### Challenges:  
 
-This week was the most challenging for me with regards to time management.  Unfortunately I wasn't able to dedicate too much time on my activities and homework, I had to work overtime to get caught up at work, while still adjusting to be confine to my room living, working, and doing school work has proven to be challenging in my ability to get motivated and concentrate on schoolwork. 
-
-This has been a lesson, I plan to complete my assignment by mid next week and make immediate changes to my daily schedule to help me compartmentalize work and school and home living. :-)
-
-I have to complete the followign bugs/tasks: accurately show score results, links score to results html page, and add JS code to results html to show high scores.  
 
